@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_108_5)">
+<ellipse cx="256.514" cy="256" rx="255.486" ry="256" fill="url(#paint0_linear_108_5)"/>
+<path d="M342.433 102.811H112.064L176.109 158.489H330.325C335.168 158.998 335.954 163.791 335.742 166.124V335.066C332.683 348.81 320.66 353.307 315.031 353.837H230.913V409.514C265.325 410.044 334.149 410.787 334.149 409.514C385.639 407.987 398.724 373.456 398.83 356.382V164.534C400.869 117.956 362.082 103.978 342.433 102.811Z" fill="white"/>
+<path d="M207.972 288.933V409.514H159.221V343.019L207.972 288.933Z" fill="white"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_108_5" x1="43.5216" y1="58.8747" x2="493.983" y2="491.646" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D9D9D9"/>
+<stop offset="0.0001" stop-color="#9123B8"/>
+<stop offset="0.557292" stop-color="#774FED"/>
+<stop offset="1" stop-color="#4B5CFA"/>
+<stop offset="1" stop-color="#D9D9D9" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_108_5">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>
