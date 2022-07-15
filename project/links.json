@@ -1,0 +1,12 @@
+{
+    "main": {
+        "docs": "https://docs.durudex.com"
+    },
+    "test": {
+        "app": "https://app.test.durudex.com"
+    },
+    "dev": {
+        "app": "https://app.dev.durudex.com",
+        "api": "https://api.dev.durudex.com"
+    }
+}
